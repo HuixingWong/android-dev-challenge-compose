@@ -23,6 +23,10 @@ To set up ktlint correctly with Android Studio, follow one of the [listed setup 
 
 Before committing your code, run `./gradlew app:spotlessApply` to automatically format your code.
 
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+
 ## License
 ```
 Copyright 2020 The Android Open Source Project
